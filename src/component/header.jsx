@@ -27,9 +27,27 @@ export default function Header() {
         </div>
 
         {/*  second div */}
-        <div>
-            <div></div>
-            <div></div>
+
+        <div className="pt-16 pb-8 relative ">
+
+            <img className="h-120 w-60 absolute top-0 left-0" src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/portal/testing/seo-home/Veggies_new.png" alt="left_img"></img>
+            <img className="h-120 w-60 absolute top-0 right-0" src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/portal/testing/seo-home/Sushi_replace.png" alt="right_img"></img>
+
+            <div className="max-w-[50%] pl-3 font-serif text-white text-5xl container mx-auto py-8 ">
+                Order food & groceries. Discover best restaurants. Swiggy it!
+            </div>
+
+            <div className="max-w-[70%] pl-3 font-serif text-white text-base container mx-auto py-8 ">
+
+            <input type="text" placeholder="Search for restaurants or dishes..." 
+            className="bg-white border border-white w-[40%] text-base py-4 px-6 rounded-xl mr-1 text-black">   
+            </input>
+
+            <input type="text" placeholder="Search for restaurants or dishes..." 
+            className="bg-white border border-white w-[50%] text-base py-4 px-6 rounded-xl  text-black">   
+            </input>
+
+            </div>
         </div>
 
 
