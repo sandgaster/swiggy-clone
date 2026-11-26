@@ -4,11 +4,13 @@ export default function FoodCard({ foodData }) {
 
     return (
         <>
+          <a href={foodData?.action?.link} target="_blank" rel="noopener noreferrer">
             <img
             className="w-40 h-50 object-cover "
                 src={imageUrl}
                 alt={foodData?.accessibility?.altText || "Food"}
             />
+            </a>
         </>
     );
 }
