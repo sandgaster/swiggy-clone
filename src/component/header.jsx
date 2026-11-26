@@ -53,20 +53,27 @@ export default function Header() {
 
         <div className="flex max-w-[80%] container mx-auto py-8">
             <a href="https://www.swiggy.com/restaurants" title="Food" >
-                <img src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,…AGES/MERCH/2024/7/23/ec86a309-9b06-48e2-9adc-35753f06bc0a_Food3BU.png" alt="Food" ></img>
-                
+               <img src=" https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_640/MERCHANDISING_BANNERS/IMAGES/MERCH/2026/11/16/bfe0be8c-2a2c-44f3-b434-1e31099c83f6_10522.png" alt="DO"
+                    
+                />
             </a>
 
             <a href="https://www.swiggy.com/instamart?entryId=1234&entryName=mainTileEntry4&v=1" >
-                <img src="https://media-assets.swiggy.com/swiggy/image/uploa…23/b5c57bbf-df54-4dad-95d1-62e3a7a8424d_IM3BU.png"></img>
+                <img src=" https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_640/MERCHANDISING_BANNERS/IMAGES/MERCH/2026/11/16/bfe0be8c-2a2c-44f3-b434-1e31099c83f6_10522.png" alt="DO"
+                    
+                />
             </a>
 
             <a href="https://www.swiggy.com/instamart?entryId=1234&entryName=mainTileEntry4&v=1" >
-                <img src="https://media-assets.swiggy.com/swiggy/image/uploa…23/b5c57bbf-df54-4dad-95d1-62e3a7a8424d_IM3BU.png"></img>
+                <img src=" https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_640/MERCHANDISING_BANNERS/IMAGES/MERCH/2026/11/16/bfe0be8c-2a2c-44f3-b434-1e31099c83f6_10522.png" alt="DO"
+                    
+                />
             </a>
 
             <a href="https://www.swiggy.com/instamart?entryId=1234&entryName=mainTileEntry4&v=1" >
-                <img src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,…IMAGES/MERCH/2024/7/23/b6d9b7ab-91c7-4f72-9bf2-fcd4ceec3537_DO3BU.png" alt="DO" ></img>
+                <img src=" https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_640/MERCHANDISING_BANNERS/IMAGES/MERCH/2026/11/16/bfe0be8c-2a2c-44f3-b434-1e31099c83f6_10522.png" alt="DO"
+
+                />
             </a>
 
 

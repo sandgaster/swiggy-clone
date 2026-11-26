@@ -1,5 +1,6 @@
                                                    const imageData =
-                                                   [{
+                                                   [
+                                                    {
                                                     "id": "2568358",
                                                     "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2026/11/24/b15e7476-847e-4134-b719-718a188b9e0b_North Indian_dark_pc.png",
                                                     "action": {
@@ -21,7 +22,8 @@
                                                         "subtitle": {},
                                                         "cta": {}
                                                     }
-                                                }, {
+                                                },
+                                                 {
                                                     "id": "2568574",
                                                     "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2026/11/24/789e1b85-fb80-4268-a362-73783edaf64d_Burgers_dark_pc.png",
                                                     "action": {
@@ -43,7 +45,8 @@
                                                         "subtitle": {},
                                                         "cta": {}
                                                     }
-                                                }, {
+                                                },
+                                                 {
                                                     "id": "2568339",
                                                     "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2026/11/24/e7ea3514-0441-4f58-8baf-fa3241faf235_Biryani_dark_pc.png",
                                                     "action": {
@@ -65,7 +68,8 @@
                                                         "subtitle": {},
                                                         "cta": {}
                                                     }
-                                                }, {
+                                                }, 
+                                                {
                                                     "id": "2568312",
                                                     "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2026/11/24/fcbd762a-ba0a-4a19-91d4-4d3040f76716_Cakes_dark_pc.png",
                                                     "action": {
@@ -87,7 +91,8 @@
                                                         "subtitle": {},
                                                         "cta": {}
                                                     }
-                                                }, {
+                                                },
+                                                 {
                                                     "id": "2568016",
                                                     "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2026/11/24/3dda4feb-26a5-483e-a3ed-5220d00f4c32_Pizzas_dark_pc.png",
                                                     "action": {
@@ -340,3 +345,7 @@
                                                     "entityType": "BANNER",
                                                 }
                                             ]
+
+
+
+                                            export default imageData;
