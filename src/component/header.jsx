@@ -51,7 +51,7 @@ export default function Header() {
         </div>
 
 
-        <div className="flex max-w-[80%] container mx-auto py-8">
+        <div className="flex max-w-[80%] container mx-auto py-8 gap-4">
             <a href="https://www.swiggy.com/restaurants" title="Food" >
                <img src=" https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_640/MERCHANDISING_BANNERS/IMAGES/MERCH/2026/11/16/bfe0be8c-2a2c-44f3-b434-1e31099c83f6_10522.png" alt="DO"
                     
